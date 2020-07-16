@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on React
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue、Java、Flutter
 - 👯 I’m looking to collaborate on [Bitchon](https://github.com/bitchon)
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about React Native
 - 📫 How to reach me: youngjuning@aliyun.com
 
